@@ -28,7 +28,7 @@ programa {
         escreva("| 0. Sair                         |\n")
         escreva("|                                 |\n")
         escreva("===================================\n")
-        escreva(" OpÁ„o ->")
+        escreva(" Op√ß√£o ->")
         leia(menu)
 
 
@@ -129,7 +129,7 @@ programa {
               }
 
               senao{
-                escreva("Por quantos meses ir· durar o investimento : ")
+                escreva("Por quantos meses ir√° durar o investimento : ")
                 leia(meses)
 
                 enquanto(contador<meses){
@@ -154,40 +154,3 @@ programa {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  }
-}
